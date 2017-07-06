@@ -1386,27 +1386,27 @@
     [
         "C:\\Data\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSelected",
         {
+            "state": "u",
             "sourcePath": "C:\\Data\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSelected",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1499134281071,
             "changeTime": 1499134281071,
-            "contentHash": "fecf840ab8be8beb469fd172caae48e461c17f2f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fecf840ab8be8beb469fd172caae48e461c17f2f"
         }
     ],
     [
         "C:\\Data\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSelected\\Accountselected.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\Data\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSelected\\Accountselected.evt",
             "isDirectory": false,
+            "size": 101,
+            "modifiedTime": 1499133919160,
+            "changeTime": 1499133919160,
+            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8",
             "isMetadataFile": false,
-            "size": 98,
-            "modifiedTime": 1499134555798,
-            "changeTime": 1499134555798,
-            "contentHash": "688c34293ba74a63c3f4a544fee2784f53acde8c"
+            "state": "u"
         }
     ],
     [
@@ -1429,23 +1429,23 @@
             "sourcePath": "C:\\Data\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSelected\\AccountSelected.evt",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 98,
-            "modifiedTime": 1499134555798,
-            "changeTime": 1499134555798,
-            "contentHash": "688c34293ba74a63c3f4a544fee2784f53acde8c"
+            "size": 101,
+            "modifiedTime": 1499133919160,
+            "changeTime": 1499134276976,
+            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
         }
     ],
     [
         "C:\\Data\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSelected\\AccountSelected.evt-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Data\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSelected\\AccountSelected.evt-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1499133900600,
             "changeTime": 1499134281076,
-            "contentHash": "bd3ab0cbe63d4689661e756746afb33bdbfd800a",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "bd3ab0cbe63d4689661e756746afb33bdbfd800a"
         }
     ]
 ]
